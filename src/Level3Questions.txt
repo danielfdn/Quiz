@@ -1,0 +1,10 @@
+Welches Jahr markiert den Beginn des Dreißigjährigen Krieges?|1614|1618|1620|1625|2|
+Was ist die Zeitkomplexität von QuickSort im Average Case?|O(n)|O(n log n)|O(n²)|O(log n)|2|
+Welcher römische Kaiser teilte das Reich in West und Ost?|Augustus|Nero|Diokletian|Konstantin|3|
+Was beschreibt das CAP-Theorem in verteilten Systemen?|Consistency, Availability, Partition tolerance|Cache, API, Performance|Code, Architecture, Patterns|Class, Abstract, Polymorphism|1|
+Welches Buch schrieb Adam Smith 1776?|Das Kapital|Der Wohlstand der Nationen|Leviathan|Der Gesellschaftsvertrag|2|
+Was ist die Avogadro-Konstante (gerundet)?|6.02 × 10²²|6.02 × 10²³|6.02 × 10²⁴|6.02 × 10²¹|2|
+Welcher Algorithmus löst das Byzantine Generals Problem?|Paxos|Raft|PBFT|Chord|3|
+In welchem Jahr wurde die Quantenmechanik formalisiert?|1905|1915|1925|1935|3|
+Was ist der Gini-Koeffizient?|Inflationsrate|Einkommensungleichheit|Wirtschaftswachstum|Arbeitslosenquote|2|
+Welche Datenstruktur nutzt Dijkstra's Algorithmus optimal?|Stack|Queue|Priority Queue|Hash Table|3|

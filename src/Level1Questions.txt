@@ -1,0 +1,10 @@
+Was ist die Hauptstadt von Deutschland?|Berlin|München|Hamburg|Frankfurt|1|
+Welche Farbe hat der Himmel an einem klaren Tag?|Grün|Rot|Blau|Gelb|3|
+Wie viele Beine hat eine Spinne?|6|8|10|4|2|
+Welcher Planet ist der Erde am nächsten?|Mars|Venus|Jupiter|Saturn|2|
+Was ist 5 + 3?|7|8|9|10|2|
+Welches Tier bellt?|Katze|Hund|Pferd|Kuh|2|
+Wie viele Tage hat eine Woche?|5|6|7|8|3|
+Welche Form hat ein Fußball?|Quadrat|Dreieck|Kreis|Rechteck|3|
+Was trinken Pflanzen zum Wachsen?|Milch|Saft|Wasser|Limonade|3|
+Welche Jahreszeit kommt nach dem Sommer?|Frühling|Winter|Herbst|Sommer|3|

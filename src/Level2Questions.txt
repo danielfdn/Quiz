@@ -1,0 +1,10 @@
+Welches Element hat das chemische Symbol 'O'?|Osmium|Oxygen|Gold|Silber|2|
+In welchem Jahr fiel die Berliner Mauer?|1987|1989|1991|1985|2|
+Was ist die Quadratwurzel aus 64?|6|8|10|12|2|
+Welcher Fluss fließt durch Paris?|Themse|Donau|Seine|Rhein|3|
+Wie viele Bundesländer hat Deutschland?|14|16|18|20|2|
+Welches Tier ist das schnellste Landtier?|Löwe|Gepard|Antilope|Tiger|2|
+Was ist die Hauptstadt von Australien?|Sydney|Melbourne|Canberra|Brisbane|3|
+Welche Programmiersprache wird hauptsächlich für Android-Apps verwendet?|Python|Swift|Java|Ruby|3|
+Wie viele Kontinente gibt es?|5|6|7|8|3|
+Was ist H2O?|Sauerstoff|Wasserstoff|Wasser|Kohlendioxid|3|
